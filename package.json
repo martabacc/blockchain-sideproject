@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-sample-nodejs",
+  "version": "1.0.0",
+  "description": "sample repo to learn blockchain",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
